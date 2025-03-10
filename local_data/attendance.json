@@ -1,0 +1,72 @@
+[
+    {
+        "Course Code": "23CSH-282",
+        "Title": "Design and Analysis of Algorithm",
+        "Eligible Delivered": "33",
+        "Eligible Attended": "32",
+        "Eligible Percentage": "96.97"
+    },
+    {
+        "Course Code": "23CSH-287",
+        "Title": "Programming in Python",
+        "Eligible Delivered": "32",
+        "Eligible Attended": "31",
+        "Eligible Percentage": "96.88"
+    },
+    {
+        "Course Code": "23CSH-291",
+        "Title": "Business Intelligence",
+        "Eligible Delivered": "35",
+        "Eligible Attended": "34",
+        "Eligible Percentage": "97.14"
+    },
+    {
+        "Course Code": "23CSP-284",
+        "Title": "PROJECT BASED LEARNING IN JAVA LAB",
+        "Eligible Delivered": "14",
+        "Eligible Attended": "14",
+        "Eligible Percentage": "100"
+    },
+    {
+        "Course Code": "23CST-281",
+        "Title": "Computer Organization and Architecture",
+        "Eligible Delivered": "18",
+        "Eligible Attended": "18",
+        "Eligible Percentage": "100"
+    },
+    {
+        "Course Code": "23CST-283",
+        "Title": "Probability and Statistics",
+        "Eligible Delivered": "20",
+        "Eligible Attended": "20",
+        "Eligible Percentage": "100"
+    },
+    {
+        "Course Code": "23GPT-221",
+        "Title": "General Proficiency-3",
+        "Eligible Delivered": "0",
+        "Eligible Attended": "0",
+        "Eligible Percentage": "0"
+    },
+    {
+        "Course Code": "23TDP-291",
+        "Title": "SOFT SKILLS II",
+        "Eligible Delivered": "24",
+        "Eligible Attended": "24",
+        "Eligible Percentage": "100"
+    },
+    {
+        "Course Code": "23TDT-292",
+        "Title": "Aptitude-II",
+        "Eligible Delivered": "24",
+        "Eligible Attended": "24",
+        "Eligible Percentage": "100"
+    },
+    {
+        "Course Code": "23UCT-297",
+        "Title": "Gender Equity and Empowerment",
+        "Eligible Delivered": "6",
+        "Eligible Attended": "6",
+        "Eligible Percentage": "100"
+    }
+]

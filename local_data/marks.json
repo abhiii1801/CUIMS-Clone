@@ -1,0 +1,170 @@
+{
+    "Probability and Statistics (23CST-283)": {
+        "experiments": [
+            {
+                "name": "Mid-Semester Test-1",
+                "max_marks": "20",
+                "marks_obtained": "9.5"
+            }
+        ]
+    },
+    "Computer Organization and Architecture (23CST-281)": {
+        "experiments": [
+            {
+                "name": "Mid-Semester Test-1",
+                "max_marks": "20",
+                "marks_obtained": "19"
+            }
+        ]
+    },
+    "Aptitude-II (23TDT-292)": {
+        "experiments": [
+            {
+                "name": "Mid-Semester Test-1",
+                "max_marks": "20",
+                "marks_obtained": "16.75"
+            }
+        ]
+    },
+    "PROJECT BASED LEARNING IN JAVA LAB (23CSP-284)": {
+        "experiments": [
+            {
+                "name": "Experiment-1",
+                "max_marks": "30",
+                "marks_obtained": "28"
+            },
+            {
+                "name": "Experiment-2",
+                "max_marks": "30",
+                "marks_obtained": "29"
+            },
+            {
+                "name": "Experiment-3",
+                "max_marks": "30",
+                "marks_obtained": "29"
+            },
+            {
+                "name": "Experiment-4",
+                "max_marks": "30",
+                "marks_obtained": "29"
+            },
+            {
+                "name": "Experiment-5",
+                "max_marks": "30",
+                "marks_obtained": "29"
+            },
+            {
+                "name": "Experiment-6",
+                "max_marks": "30",
+                "marks_obtained": "29"
+            },
+            {
+                "name": "Experiment-7",
+                "max_marks": "30",
+                "marks_obtained": "29"
+            }
+        ]
+    },
+    "Design and Analysis of Algorithm (23CSH-282)": {
+        "experiments": [
+            {
+                "name": "Practical Worksheet/Projects 1",
+                "max_marks": "30",
+                "marks_obtained": "27"
+            },
+            {
+                "name": "Practical Worksheet/Projects 2",
+                "max_marks": "30",
+                "marks_obtained": "29"
+            },
+            {
+                "name": "Practical Worksheet/Projects 3",
+                "max_marks": "30",
+                "marks_obtained": "28"
+            },
+            {
+                "name": "Practical Worksheet/Projects 4",
+                "max_marks": "30",
+                "marks_obtained": "28"
+            },
+            {
+                "name": "Practical Worksheet/Projects 5",
+                "max_marks": "30",
+                "marks_obtained": "27"
+            },
+            {
+                "name": "MST-1 Hybrid",
+                "max_marks": "20",
+                "marks_obtained": "14"
+            }
+        ]
+    },
+    "Business Intelligence (23CSH-291)": {
+        "experiments": [
+            {
+                "name": "Practical Worksheet/Projects 1",
+                "max_marks": "30",
+                "marks_obtained": "27"
+            },
+            {
+                "name": "Practical Worksheet/Projects 2",
+                "max_marks": "30",
+                "marks_obtained": "27"
+            },
+            {
+                "name": "Practical Worksheet/Projects 3",
+                "max_marks": "30",
+                "marks_obtained": "28"
+            },
+            {
+                "name": "Practical Worksheet/Projects 4",
+                "max_marks": "30",
+                "marks_obtained": "29"
+            },
+            {
+                "name": "Practical Worksheet/Projects 5",
+                "max_marks": "30",
+                "marks_obtained": "27"
+            },
+            {
+                "name": "MST-1 Hybrid",
+                "max_marks": "20",
+                "marks_obtained": "16"
+            }
+        ]
+    },
+    "Programming in Python (23CSH-287)": {
+        "experiments": [
+            {
+                "name": "Practical Worksheet/Projects 1",
+                "max_marks": "30",
+                "marks_obtained": "ABSENT"
+            },
+            {
+                "name": "Practical Worksheet/Projects 2",
+                "max_marks": "30",
+                "marks_obtained": "29"
+            },
+            {
+                "name": "Practical Worksheet/Projects 3",
+                "max_marks": "30",
+                "marks_obtained": "29"
+            },
+            {
+                "name": "Practical Worksheet/Projects 4",
+                "max_marks": "30",
+                "marks_obtained": "ABSENT"
+            },
+            {
+                "name": "Practical Worksheet/Projects 5",
+                "max_marks": "30",
+                "marks_obtained": "ABSENT"
+            },
+            {
+                "name": "MST-1 Hybrid",
+                "max_marks": "20",
+                "marks_obtained": "20"
+            }
+        ]
+    }
+}

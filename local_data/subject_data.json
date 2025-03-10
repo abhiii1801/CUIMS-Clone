@@ -1,0 +1,42 @@
+[
+    {
+        "course_code": "23CSH-282",
+        "course_name": "Design and Analysis of Algorithm"
+    },
+    {
+        "course_code": "23CSH-287",
+        "course_name": "Programming in Python"
+    },
+    {
+        "course_code": "23CSH-291",
+        "course_name": "Business Intelligence"
+    },
+    {
+        "course_code": "23CSP-284",
+        "course_name": "PROJECT BASED LEARNING IN JAVA LAB"
+    },
+    {
+        "course_code": "23CST-281",
+        "course_name": "Computer Organization and Architecture"
+    },
+    {
+        "course_code": "23CST-283",
+        "course_name": "Probability and Statistics"
+    },
+    {
+        "course_code": "23GPT-221",
+        "course_name": "General Proficiency-3"
+    },
+    {
+        "course_code": "23TDP-291",
+        "course_name": "SOFT SKILLS II"
+    },
+    {
+        "course_code": "23TDT-292",
+        "course_name": "Aptitude-II"
+    },
+    {
+        "course_code": "23UCT-297",
+        "course_name": "Gender Equity and Empowerment"
+    }
+]

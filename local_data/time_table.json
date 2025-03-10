@@ -1,0 +1,246 @@
+[
+    [
+        {
+            "subject_code": "23CSH-287",
+            "teacher": "Navjeet Kaur(E16069)",
+            "location": "Block-D3-107 ",
+            "time": " 09:30 - 10:20 AM",
+            "day_number": 1
+        },
+        {
+            "subject_code": "23CSH-282",
+            "teacher": "Somdatta Patra(E15047)",
+            "location": "Block-D3-203 ",
+            "time": " 10:20 - 11:10 AM",
+            "day_number": 1
+        },
+        {
+            "subject_code": "23CSH-291",
+            "teacher": "Shweta(E12791)",
+            "location": "Block-D3-203 ",
+            "time": " 12:10 - 1:00 PM",
+            "day_number": 1
+        },
+        {
+            "subject_code": "23CST-283",
+            "teacher": "Savita(E3620)",
+            "location": "Block-D3-107 ",
+            "time": " 1:55 - 2:45 PM",
+            "day_number": 1
+        },
+        {
+            "subject_code": "23TDT-292",
+            "teacher": "Ankit Jindal(E18424)",
+            "location": "Block-D3-203 ",
+            "time": " 2:45 - 3:35 PM",
+            "day_number": 1
+        },
+        {
+            "subject_code": "23TDT-292",
+            "teacher": "Ankit Jindal(E18424)",
+            "location": "Block-D3-203 ",
+            "time": " 3:35 - 4:25 PM",
+            "day_number": 1
+        },
+        {
+            "subject_code": "23CSH-291",
+            "teacher": "Shweta(E12791)",
+            "location": "Block-D3-203 ",
+            "time": " 11:10 - 12:00 PM",
+            "day_number": 1
+        }
+    ],
+    [
+        {
+            "subject_code": "23TDP-291",
+            "teacher": "Simranjeet Kaur(E15094)",
+            "location": "Block-D3-506 ",
+            "time": " 09:30 - 10:20 AM",
+            "day_number": 2
+        },
+        {
+            "subject_code": "23TDP-291",
+            "teacher": "Simranjeet Kaur(E15094)",
+            "location": "Block-D3-506 ",
+            "time": " 10:20 - 11:10 AM",
+            "day_number": 2
+        },
+        {
+            "subject_code": "23CSP-284",
+            "teacher": "Sonam Sharma(E17997)",
+            "location": "Block-D3-101 ",
+            "time": " 12:10 - 1:00 PM",
+            "day_number": 2
+        },
+        {
+            "subject_code": "23CSH-287",
+            "teacher": "Navjeet Kaur(E16069)",
+            "location": "Block-D3-201 ",
+            "time": " 1:55 - 2:45 PM",
+            "day_number": 2
+        },
+        {
+            "subject_code": "23TDT-292",
+            "teacher": "Ankit Jindal(E18424)",
+            "location": "Block-D3-107 ",
+            "time": " 2:45 - 3:35 PM",
+            "day_number": 2
+        },
+        {
+            "subject_code": "23TDT-292",
+            "teacher": "Ankit Jindal(E18424)",
+            "location": "Block-D3-107 ",
+            "time": " 3:35 - 4:25 PM",
+            "day_number": 2
+        },
+        {
+            "subject_code": "23CSP-284",
+            "teacher": "Sonam Sharma(E17997)",
+            "location": "Block-D3-101 ",
+            "time": " 11:10 - 12:00 PM",
+            "day_number": 2
+        }
+    ],
+    [
+        {
+            "subject_code": "23CST-281",
+            "teacher": "Nikhil Aggarwal(E9191)",
+            "location": "Block-D3-203 ",
+            "time": " 10:20 - 11:10 AM",
+            "day_number": 3
+        },
+        {
+            "subject_code": "23CSH-291",
+            "teacher": "Shweta(E12791)",
+            "location": "Block-D3-203 ",
+            "time": " 1:55 - 2:45 PM",
+            "day_number": 3
+        },
+        {
+            "subject_code": "23CSH-287",
+            "teacher": "Navjeet Kaur(E16069)",
+            "location": "Block-D3-205 ",
+            "time": " 2:45 - 3:35 PM",
+            "day_number": 3
+        },
+        {
+            "subject_code": "23CSH-287",
+            "teacher": "Navjeet Kaur(E16069)",
+            "location": "Block-D3-205 ",
+            "time": " 3:35 - 4:25 PM",
+            "day_number": 3
+        },
+        {
+            "subject_code": "23CSH-287",
+            "teacher": "Navjeet Kaur(E16069)",
+            "location": "Block-D3-201 ",
+            "time": " 11:10 - 12:00 PM",
+            "day_number": 3
+        }
+    ],
+    [
+        {
+            "subject_code": "23TDP-291",
+            "teacher": "Simranjeet Kaur(E15094)",
+            "location": "Block-D3-506 ",
+            "time": " 09:30 - 10:20 AM",
+            "day_number": 4
+        },
+        {
+            "subject_code": "23TDP-291",
+            "teacher": "Simranjeet Kaur(E15094)",
+            "location": "Block-D3-506 ",
+            "time": " 10:20 - 11:10 AM",
+            "day_number": 4
+        },
+        {
+            "subject_code": "23CST-283",
+            "teacher": "Savita(E3620)",
+            "location": "Block-D3-107 ",
+            "time": " 12:10 - 1:00 PM",
+            "day_number": 4
+        },
+        {
+            "subject_code": "23CSH-291",
+            "teacher": "Shweta(E12791)",
+            "location": "Block-D3-107 ",
+            "time": " 1:55 - 2:45 PM",
+            "day_number": 4
+        },
+        {
+            "subject_code": "23CSH-282",
+            "teacher": "Somdatta Patra(E15047)",
+            "location": "Block-D3-107 ",
+            "time": " 2:45 - 3:35 PM",
+            "day_number": 4
+        },
+        {
+            "subject_code": "23CST-281",
+            "teacher": "Nikhil Aggarwal(E9191)",
+            "location": "Block-D3-107 ",
+            "time": " 11:10 - 12:00 PM",
+            "day_number": 4
+        }
+    ],
+    [
+        {
+            "subject_code": "23CST-283",
+            "teacher": "Savita(E3620)",
+            "location": "Block-D3-107 ",
+            "time": " 09:30 - 10:20 AM",
+            "day_number": 5
+        },
+        {
+            "subject_code": "23CST-281",
+            "teacher": "Nikhil Aggarwal(E9191)",
+            "location": "Block-D3-107 ",
+            "time": " 10:20 - 11:10 AM",
+            "day_number": 5
+        },
+        {
+            "subject_code": "23UCT-297",
+            "teacher": "Savita(E3620)",
+            "location": "Block-D3-107 ",
+            "time": " 12:10 - 1:00 PM",
+            "day_number": 5
+        },
+        {
+            "subject_code": "23CSH-291",
+            "teacher": "Shweta(E12791)",
+            "location": "Block-D3-107 ",
+            "time": " 1:55 - 2:45 PM",
+            "day_number": 5
+        },
+        {
+            "subject_code": "23CSH-282",
+            "teacher": "Somdatta Patra(E15047)",
+            "location": "Block-D3-209-A ",
+            "time": " 2:45 - 3:35 PM",
+            "day_number": 5
+        },
+        {
+            "subject_code": "23CSH-282",
+            "teacher": "Somdatta Patra(E15047)",
+            "location": "Block-D3-209-A ",
+            "time": " 3:35 - 4:25 PM",
+            "day_number": 5
+        },
+        {
+            "subject_code": "23CSH-282",
+            "teacher": "Somdatta Patra(E15047)",
+            "location": "Block-D3-107 ",
+            "time": " 11:10 - 12:00 PM",
+            "day_number": 5
+        }
+    ],
+    [],
+    [
+        {
+            "subject_code": "23GPT-221",
+            "teacher": "",
+            "location": "Block-D3-107",
+            "time": "09:30 - 10:20 AM",
+            "day_number": 7
+        }
+    ]
+]

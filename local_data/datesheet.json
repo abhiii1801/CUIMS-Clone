@@ -1,0 +1,62 @@
+[
+    {
+        "exam_type": "Regular",
+        "datesheet_type": "MST-1",
+        "course_code": "23CSH-282",
+        "course_name": "DESIGN AND ANALYSIS OF ALGORITHM",
+        "slot_no": "2",
+        "exam_date": "06 Feb 2025",
+        "exam_time": "12:30",
+        "exam_venue": "D5"
+    },
+    {
+        "exam_type": "Regular",
+        "datesheet_type": "MST-1",
+        "course_code": "23CST-281",
+        "course_name": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+        "slot_no": "4",
+        "exam_date": "07 Feb 2025",
+        "exam_time": "10:00",
+        "exam_venue": "D5"
+    },
+    {
+        "exam_type": "Regular",
+        "datesheet_type": "MST-1",
+        "course_code": "23CSH-291",
+        "course_name": "BUSINESS INTELLIGENCE",
+        "slot_no": "8",
+        "exam_date": "08 Feb 2025",
+        "exam_time": "12:30",
+        "exam_venue": "D5"
+    },
+    {
+        "exam_type": "Regular",
+        "datesheet_type": "MST-1",
+        "course_code": "23TDT-292",
+        "course_name": "APTITUDE-II",
+        "slot_no": "9",
+        "exam_date": "08 Feb 2025",
+        "exam_time": "15:00",
+        "exam_venue": "https://amcatglobal.aspiringminds.com/?data=JTdCJTIybG9naW4lMjIlM0ElN0IlMjJsYW5ndWFnZSUyMiUzQSUyMmVuLVVTJTIyJTJDJTIyaXNBdXRvbG9naW4lMjIlM0ExJTJDJTIycGFydG5lcklkJTIyJTNBJTIyNDM0ODIlMjIlMkMlMjJhdXRoa2V5JTIyJTNBJTIyWkdNMVpqRTFaVEU1TWpaak5qWm1aR0l3TmpNM1pqSXhNRGRrWlRVeFpXVSUzRCUyMiUyQyUyMnVzZXJuYW1lJTIyJTNBJTIyMjNCREE3MDAxMiU0MGN1Y2hkLmluX3p3QkI3MzhIMDQyZ2NpRUhDJTIyJTJDJTIycGFzc3dvcmQlMjIlM0ElMjI2ZkJ3UmdjTSUyMiUyQyUyMnJldHVyblVybCUyMiUzQSUyMiUyMiU3RCUyQyUyMnJlZ2lvbiUyMiUzQSUyMlVTJTIyJTdE"
+    },
+    {
+        "exam_type": "Regular",
+        "datesheet_type": "MST-1",
+        "course_code": "23CSH-287",
+        "course_name": "PROGRAMMING IN PYTHON",
+        "slot_no": "12",
+        "exam_date": "10 Feb 2025",
+        "exam_time": "15:00",
+        "exam_venue": "D5"
+    },
+    {
+        "exam_type": "Regular",
+        "datesheet_type": "MST-1",
+        "course_code": "23CST-283",
+        "course_name": "PROBABILITY AND STATISTICS",
+        "slot_no": "10",
+        "exam_date": "10 Feb 2025",
+        "exam_time": "10:00",
+        "exam_venue": "D5"
+    }
+]

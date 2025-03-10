@@ -1,0 +1,57 @@
+{
+    "UID": "23BDA70012",
+    "Name": "ABHINAV TOMAR",
+    "Father's Name": "SAKTU SINGH",
+    "Mother Name": "MANISHA PANWAR",
+    "Religion": "Hinduism",
+    "D.O.B.": "18 Jan 2006",
+    "Admission Year": "2023",
+    "University": "CU",
+    "Current Semester": "4",
+    "Blood Group": "NA",
+    "Current Section": "23BDA-115",
+    "Program Code": "CS206::BE-CSE(H) BIG DATA ANALYTICS",
+    "Student Status": "A",
+    "Cast": "GEN",
+    "Address": "H No-10 Ground Floor, Pocket-12 Sector-24, Rohini Sector-24, North West Delhi,",
+    "": "",
+    "education_info": [
+        {
+            "qualification": "10th",
+            "steram": "GENERAL",
+            "school/college": "RISHIKUL VIDYAPEETH",
+            "university/board": "CENTRAL BOARD OF SECONDARY EDUCATION",
+            "passing_year": "2021"
+        },
+        {
+            "qualification": "10+2",
+            "steram": "PCM",
+            "school/college": "RAJDHANI PUBLIC SCHOOL",
+            "university/board": "CENTRAL BOARD OF SECONDARY EDUCATION",
+            "passing_year": "2023"
+        }
+    ],
+    "contact_info": [
+        {
+            "contact_type": "Father",
+            "residence": "",
+            "office": "",
+            "mobile": "9350539499",
+            "email_id": ""
+        },
+        {
+            "contact_type": "Mother",
+            "residence": "",
+            "office": "",
+            "mobile": "9634355081",
+            "email_id": ""
+        },
+        {
+            "contact_type": "Student",
+            "residence": "",
+            "office": "",
+            "mobile": "9671993553",
+            "email_id": "abhinavtomar80311@gmail.com"
+        }
+    ]
+}
